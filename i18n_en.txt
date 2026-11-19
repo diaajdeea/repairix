@@ -1,0 +1,710 @@
+من|From
+أمس|Yesterday
+إلى|To
+بحث|Search
+حذف|Delete
+حفظ|Save
+دين|Debt
+رفض|Reject
+سنة|Year
+شهر|Month
+ظهر|Back cover
+عرض|View
+مسح|Clear
+يوم|Day
+آيسي|IC
+أخرى|Other
+الكل|All
+بدون|None
+جاهز|Ready
+داكن|Dark
+دخول|Log in
+دفعة|Payment
+راجع|Returned
+شاشة|Screen
+شراء|Purchase
+صورة|Photo
+صُرف|Cashed
+ظهور|Back covers
+فاتح|Light
+إجراء|Action
+إغلاق|Close
+إلغاء|Cancel
+إنقاص|Decrease
+الاسم|Name
+البنك|Bank
+البيع|Sales
+الدفع|Payment
+الربح|Profit
+الرقم|Number
+السبب|Reason
+السعر|Price
+السلة|Cart
+الشخص|Person
+الصنف|Item
+العدد|Count
+العطل|Fault
+القطع|Parts
+اللون|Color
+المحل|Shop
+النوع|Type
+اليوم|Today
+تالفة|Damaged
+تجربة|Trial
+تصفية|Filter
+تفعيل|Activate
+زيادة|Increase
+شاشات|Screens
+متوفر|In stock
+مرتجع|Return
+مشترك|Subscriber
+منتهي|Expired
+منخفض|Low
+موقوف|Suspended
+الجملة|Wholesale
+الجهاز|Device
+الحالة|Status
+الديون|Debts
+الزبون|Customer
+الصافي|Net
+الصورة|Photo
+الظهور|Back covers
+العملة|Currency
+القطعة|Part
+القيمة|Value
+الكمية|Quantity
+المبلغ|Amount
+المظهر|Appearance
+المورد|Supplier
+الهاتف|Phone
+بطارية|Battery
+تاريخه|Its date
+تجريبي|Trial
+تلقائي|Automatic
+سماعات|Headphones
+كونكتر|Connector
+ملاحظة|Note
+₪ شيكل|₪ Shekel
+$ دولار|$ Dollar
++ مخزون|+ Stock
+آخر يوم|Last day
+إجراءات|Actions
+اختياري|Optional
+الأشخاص|People
+الألوان|Colors
+الإيميل|Email
+التاريخ|Date
+الترتيب|Sort
+التصنيف|Category
+التقرير|Report
+الدولار|Dollar
+الدينار|Dinar
+الشاشات|Screens
+الشيكات|Cheques
+الصيانة|Repairs
+العملية|Operation
+المتبقي|Remaining
+المجموع|Total
+المخزون|Stock
+المدفوع|Paid
+شو أخذ؟|What did they take?
+لا يوجد|None
+ملاحظات|Notes
+موقوفون|Suspended
+(تلقائي)|(automatic)
+آخر حركة|Last activity
+آخر دخول|Last login
+الآيسيات|ICs
+التفاصيل|Details
+الرئيسية|Home
+السماعات|Headphones
+الصيانات|Repairs
+الفاتورة|Invoice
+المتوفر:|In stock:
+المستخدم|User
+الموردين|Suppliers
+الموظفين|Employees
+دين جديد|New debt
+رفع شعار|Upload logo
+رفع صورة|Upload photo
+شخص جديد|New person
+شيك جديد|New cheque
+عرض الكل|View all
+عرض جدول|Table view
+غير متاح|Unavailable
+كل القطع|All parts
+لا يوجد.|None.
+لم يُصرف|Not cashed
+مسح الكل|Clear all
+من تاريخ|From date
++ لون آخر|+ Another color
+أضف للسلة|Add to cart
+إضافة بند|Add item
+إضافة شخص|Add person
+إلى تاريخ|To date
+اسم اللون|Color name
+اسم المحل|Shop name
+الإشعارات|Notifications
+الإعدادات|Settings
+الإيرادات|Revenue
+البطاريات|Batteries
+التصنيفات|Categories
+المرتجعات|Returns
+بدون مورد|No supplier
+حراري وA4|Thermal & A4
+حسب اليوم|By day
+حفظ الدين|Save debt
+حفظ الرقم|Save number
+حفظ الشيك|Save cheque
+دخل اليوم|Today's income
+دفع نقداً|Paid in cash
+ربح الشهر|Month profit
+رقم الشيك|Cheque number
+سعر البيع|Sale price
+عدد القطع|Parts count
+عيب مصنعي|Manufacturing defect
+في السلة:|In cart:
+قاعدة شحن|Charging base
+قطع ناقصة|Missing parts
+قواعد شحن|Charging bases
+كلمة السر|Password
+كله متوفر|All in stock
+متصل الآن|Online now
+نقص مخزون|Low stock
+هذا الشهر|This month
+آخر 14 يوم|Last 14 days
+آخر 7 أيام|Last 7 days
+أدوات بصور|Tools with photos
+إضافة أداة|Add tool
+إضافة مورد|Add supplier
+إضافة موظف|Add employee
+اسم الأداة|Tool name
+اسم الزبون|Customer name
+اسم القطعة|Part name
+الكونكترات|Connectors
+المبلغ (₪)|Amount (₪)
+تحديث الآن|Refresh now
+تحديد الكل|Select all
+تم التسليم|Delivered
+حالة الشيك|Cheque status
+حد التنبيه|Alert level
+حسب المورد|By supplier
+حفظ الدفعة|Save payment
+حفظ القطعة|Save part
+حفظ المورد|Save supplier
+حفظ الموظف|Save employee
+دفعة نقدية|Cash payment
+سجّل دخولك|Log in
+سعر الجملة|Wholesale price
+سعر الوحدة|Unit price
+صاحب الشيك|Cheque holder
+صورة الشيك|Cheque photo
+عرض بطاقات|Card view
+عندك حساب؟|Have an account?
+فتح الحساب|Open account
+قطع الغيار|Spare parts
+كل الأجهزة|All devices
+كل الأنواع|All types
+كل الحالات|All statuses
+كل الكميات|All quantities
+مثال: أسود|e.g. Black
+محلك جديد؟|New shop?
+محوّل سريع|Quick converter
+مربح الشهر|Month profit
+مربح اليوم|Today's profit
+نوع الجهاز|Device type
+(للمحل فقط)|(shop only)
++ إضافة بند|+ Add item
+آخر السجلات|Latest records
+أسعار الصرف|Exchange rates
+إضافة البند|Add item
+اسم الموديل|Model name
+الأعلى قيمة|Highest value
+الاسم الأول|First name
+المتوفر فقط|In stock only
+الناقصة فقط|Missing only
+تسجيل مرتجع|Record return
+تصدير Excel|Export Excel
+تعديل الشيك|Edit cheque
+تفعيل مباشر|Activate now
+تكلفة القطع|Parts cost
+جملة القطعة|Part wholesale
+حفظ الموديل|Save model
+روابط سريعة|Quick links
+سبب الإرجاع|Return reason
+عدد الأدوات|Tools count
+عدد الأشخاص|People count
+قبل ما تخلص|Before it runs out
+قواعد الشحن|Charging bases
+قيد الصيانة|Under repair
+كل المنتجات|All products
+كل الموردين|All suppliers
+لوحة المالك|Owner panel
+متصلون الآن|Online now
+مجموع القطع|Total parts
+محل الصيانة|Repair shop
+مكان الأداة|Tool location
+نسبة السداد|Repayment rate
++ إضافة أداة|+ Add tool
++ إضافة قطعة|+ Add part
++ إضافة مورد|+ Add supplier
+آخر الصيانات|Latest repairs
+إجمالي الدين|Total debt
+إجمالي القطع|Total parts
+إيقاف الحساب|Suspend account
+اختيار اللون|Choose color
+الاسم الأخير|Last name
+الاسم الكامل|Full name
+الدخل اليومي|Daily income
+السعر للزبون|Customer price
+تسجيل الخروج|Log out
+تسجيل الدخول|Log in
+تعديل المورد|Edit supplier
+تغيير الشعار|Change logo
+حالة المخزون|Stock status
+حذف المستخدم|Delete user
+رقم الفاتورة|Invoice number
+شيكات مصروفة|Cashed cheques
+طباعة حرارية|Thermal print
+عدد الصيانات|Repairs count
+عدد الفواتير|Invoices count
+عدد الموظفين|Employees count
+فترة تجريبية|Trial period
+فواتير البيع|Sales invoices
+قيمة الأدوات|Tools value
+لم تُصرف (0)|Not cashed (0)
+ما في سجلات.|No records.
+ما في شيكات.|No cheques.
+ما في نتائج.|No results.
+مبيعات الشهر|Month sales
+مبيعات اليوم|Today's sales
+مجموع الجملة|Wholesale total
++ إضافة موديل|+ Add model
++ تسجيل صيانة|+ Log repair
++ صيانة جديدة|+ New repair
+أدوات الصيانة|Maintenance tools
+إعدادات المحل|Shop settings
+الأقل مخزوناً|Lowest stock
+الدين المتبقي|Remaining debt
+الربح المتوقع|Expected profit
+الشعار الحالي|Current logo
+المربح اليومي|Daily profit
+بحث عن شخص...|Search for a person...
+تاريخ الصيانة|Repair date
+تحديث الأسعار|Update prices
+تحديث النواقص|Refresh shortages
+تحديد آخر يوم|Set last day
+تسجيل الصيانة|Log repair
+تنبيه نقص قطع|Low parts alert
+جاهزة للتسليم|Ready for delivery
+حفظ التعديلات|Save changes
+خيارات إضافية|More options
+سلة المشتريات|Shopping cart
+عدد الموديلات|Models count
+قطع قربت تخلص|Parts running low
+كل المستخدمين|All users
+إلغاء الفاتورة|Cancel invoice
+إيقاف أو تفعيل|Suspend or activate
+الأكثر مخزوناً|Most stock
+التقرير الشهري|Monthly report
+بحث عن مورد...|Search for a supplier...
+شيكات لم تُصرف|Uncashed cheques
+صورة (اختياري)|Photo (optional)
+عمليات الإرجاع|Returns
+محسوب تلقائياً|Calculated automatically
+مرتجعات مفتوحة|Open returns
+منتهي الاشتراك|Subscription expired
+‹ اليوم السابق|‹ Previous day
+إضافة منتج جديد|Add new product
+إضافة موديل ظهر|Add back-cover model
+إنشاء حساب جديد|Create a new account
+الأيام المتبقية|Days left
+البنود المفتوحة|Open items
+العطل / المطلوب|Fault / Required
+القطع المستخدمة|Parts used
+الكمية المرتجعة|Returned quantity
+تغيير كلمة السر|Change password
+عرض الفاتورة A4|View A4 invoice
+فواتير الموردين|Supplier invoices
+فيه ألوان نافدة|Some colors out of stock
+متطلبات الصيانة|Repair requirements
+— اختر المورد —|— Choose supplier —
+— حدّد المورد —|— Select supplier —
+🔍 ابحث عن الشخص|🔍 Search for the person
+أشخاص عليهم مبلغ|People who owe money
+إرسال طلب الحساب|Send account request
+إضافة قطعة جديدة|Add new part
+البضاعة المرتجعة|Returned goods
+الوظيفة / المهمة|Job / Role
+بحث في البنود...|Search items...
+بدون بطاقة بنكية|No bank card
+بنود شراء مفتوحة|Open purchase items
+ترتيب: الافتراضي|Sort: Default
+تصنيفات المنتجات|Product categories
+سعر البيع: الأقل|Sale price: Lowest
+طلب خاطئ / زيادة|Wrong order / excess
+فيه ألوان منخفضة|Some colors running low
+كم دفع الآن؟ (₪)|Paid now? (₪)
+مثال: 0599123456|e.g. 0599123456
+نقد مع الشيك (₪)|Cash with cheque (₪)
+إجمالي المبلغ (₪)|Total amount (₪)
+تسجيل صيانة جديدة|Log new repair
+سعر البيع: الأعلى|Sale price: Highest
+قطع مرتجعة هالشهر|Parts returned this month
+قيمة العهد (جملة)|Custody value (wholesale)
+كلمة السر الحالية|Current password
+ما في فواتير بعد.|No invoices yet.
+ما في موردين بعد.|No suppliers yet.
+مثال: الدرج الأول|e.g. First drawer
+موافقة وتوليد كود|Approve & generate code
+إيصال جاهز للطباعة|Print-ready receipt
+استبدال صورة الشيك|Replace cheque photo
+تسجيل بضاعة مرتجعة|Record returned goods
+عدد الأيام المضافة|Days added
+قطع بعهدة الموظفين|Parts held by employees
+هل نسيت كلمة السر؟|Forgot your password?
+7 أيام تجربة مجانية|7-day free trial
+اسم المحل (اختياري)|Shop name (optional)
+الكمية: الأقل أولاً|Quantity: Lowest first
+المتطلبات والفواتير|Requirements & invoices
+رقم الهاتف (واتساب)|Phone number (WhatsApp)
+سعر الوحدة (جملة ₪)|Unit price (wholesale ₪)
+قيمة البيع المتوقعة|Expected sales value
+قيمة المخزون (جملة)|Stock value (wholesale)
+لا تعمل بعد التركيب|Doesn't work after install
+لا يوجد صيانات بعد.|No repairs yet.
+يُحتسب من دين الشخص|Counted from the person's debt
+أكثر القطع استهلاكاً|Most used parts
+الكمية: الأكثر أولاً|Quantity: Highest first
+تسجيل وخصم من المخزن|Log & deduct from stock
+تفعيل / تمديد اشتراك|Activate / extend subscription
+سعر الشراء (اختياري)|Purchase price (optional)
+شعار القائمة العلوية|Top bar logo
+غير مطابقة للمواصفات|Not to specification
+مقاس، موديل، حالة...|Size, model, condition...
+إجمالي القطع المرتجعة|Total returned parts
+ديون الفواتير (متبقي)|Invoice debts (remaining)
+فاتورة جديدة (المتجر)|New invoice (store)
+قيمة المرتجعات (جملة)|Returns value (wholesale)
+ما في مرتجعات مسجّلة.|No returns recorded.
+ما في موديلات ظهر بعد|No back-cover models yet
+مثلاً: شاشة iPhone XR|e.g. iPhone XR screen
+مستحقة اليوم · متأخرة|Due today · Overdue
+أنشئ حساب وجرّب مجاناً|Create an account and try free
+إجمالي الديون المسجّلة|Total recorded debts
+إدارة الصيانة والمخزون|Repair & inventory management
+تحديد آخر يوم للاشتراك|Set subscription last day
+طلبات الحسابات الجديدة|New account requests
+مثال: شاشة Samsung A12|e.g. Samsung A12 screen
+آخر يوم يعمل فيه الحساب|Last day the account works
+أهلاً بك في محل الصيانة|Welcome to the repair shop
+إظهار / إخفاء كلمة السر|Show / hide password
+ابحث عن موديل أو لون...|Search for a model or color...
+الإيميل أو اسم المستخدم|Email or username
+الفترة التجريبية فعّالة|Trial period active
+بحث: قطعة، مورد، سبب...|Search: part, supplier, reason...
+تأكيد كلمة السر الجديدة|Confirm new password
+تاريخ الشيك / الاستحقاق|Cheque / due date
+سعر الدولار بالشيكل (₪)|Dollar rate in shekels (₪)
+سعر الدينار بالشيكل (₪)|Dinar rate in shekels (₪)
+كل القطع بكميات كافية ✓|All parts in sufficient quantity ✓
+مثال: iPhone 14 Pro Max|e.g. iPhone 14 Pro Max
+مربح اليوم (تم التسليم)|Today's profit (delivered)
+🔍 ابحث أو اكتب اسم جديد|🔍 Search or type a new name
+إجمالي المتبقي على الناس|Total remaining from people
+إجمالي المتبقي من الديون|Total remaining debts
+(ابحث واختر قطعة أو أكثر)|(Search and pick one or more parts)
+الإيرادات والتكلفة والربح|Revenue, cost and profit
+الدخل اليومي (تم التسليم)|Daily income (delivered)
+حدّد المورد من الجدول تحت|Select the supplier from the table below
+رقم، صاحب الشيك، بنك، شخص|Number, holder, bank, person
+ما في نتائج مطابقة للبحث.|No results match your search.
+مخزونك وصيانتك بمكان واحد|Your stock and repairs in one place
+مفتاح الدولة (970 أو 972)|Country code (970 or 972)
+القطعة (من المخزن الرئيسي)|Part (from main stock)
+سجل كل العمليات والتنبيهات|Log of all operations and alerts
+لا يوجد بيانات لهذا الشهر.|No data for this month.
+متطلبات الصيانة والمرتجعات|Repair requirements & returns
+إنشاء فاتورة للبنود المحددة|Create an invoice for selected items
+بيتعبّى تلقائياً من الاسمين|Filled automatically from both names
+الأجهزة اللي لسا قيد الصيانة|Devices still under repair
+المدفوع (نقد + شيكات مصروفة)|Paid (cash + cashed cheques)
+بحث بالإيميل أو اسم المحل...|Search by email or shop name...
+بيانات الموردين وطرق التواصل|Supplier details and contacts
+أسعار الصرف (القائمة العلوية)|Exchange rates (top bar)
+الصافي المفتوح (شراء − مرتجع)|Open net (purchase − return)
+تنبيهات تلقائية للقطع الناقصة|Automatic alerts for missing parts
+الشخص (اكتب للبحث أو اسم جديد)|Person (type to search or a new name)
+صورة الأداة (JPG / PNG / WEBP)|Tool photo (JPG / PNG / WEBP)
+ما في صيانات مسجّلة بهالتاريخ.|No repairs recorded on this date.
+مثلاً: شاشة iPhone 11 + بطارية|e.g. iPhone 11 screen + battery
+مثلاً: فني صيانة، مندوب مبيعات|e.g. Technician, sales rep
+أسعار الصرف · اضغط لفتح المحوّل|Exchange rates · tap to open converter
+الصنف — اكتب أو اختر من المخزون|Item — type or pick from stock
+إنشاء فواتير المرتجعات حسب المورد|Create return invoices per supplier
+ابحث بالاسم أو اللون أو المورد...|Search by name, color or supplier...
+حذف الشعار والرجوع للحرف التلقائي|Remove logo and revert to the default letter
+سعر الوحدة (₪) — بيتعبّى تلقائياً|Unit price (₪) — filled automatically
+ابحث برقم الفاتورة أو اسم الشخص...|Search by invoice number or person...
+المورد (بيتحدد تلقائياً من القطعة)|Supplier (set automatically from the part)
+مجموع أسعار الصيانات المسجلة اليوم|Sum of repair prices logged today
+مخزون القطع مرتب حسب النوع والجهاز|Parts stock sorted by type and device
+السماعات بأنواعها بالأسعار والكميات|Headphones of all kinds with prices and quantities
+سعر البيع (لو بدك تبيعها من المتجر)|Sale price (if you want to sell it from the store)
+ما في ديون مسجّلة. اضغط "دين جديد".|No debts recorded. Press "New debt".
+ما في نتائج مطابقة للبحث أو الفلتر.|No results match the search or filter.
+إيصالات وفواتير موردين جاهزة للطباعة|Receipts and supplier invoices ready to print
+بحث بالصفحة: اسم، هاتف، جهاز، عطل...|Search page: name, phone, device, fault...
+كلمة السر الجديدة (6 أحرف على الأقل)|New password (at least 6 characters)
+كل مزايا البرنامج مفتوحة خلال التجربة|All features are open during the trial
+مثال: مفك خماسي / محطة لحام هواء ساخن|e.g. Pentalobe screwdriver / hot-air station
+ابحث باسم المنتج أو اللون أو الجهاز...|Search by product, color or device...
+الكمية بتنخصم فوراً من المخزن الرئيسي.|Quantity is deducted immediately from main stock.
+موديلات الهواتف وألوان الظهر لكل موديل|Phone models and back-cover colors for each model
+ابحث باسم الأداة أو تصنيفها أو مكانها...|Search by tool name, category or location...
+اختر موظف لتسليمه بضاعة أو لمتابعة عهدته|Choose an employee to hand goods or track their custody
+تتابع الأيام المتبقية من الصفحة الرئيسية|Track the remaining days from the home page
+صاحب الشيك (اتركه فاضي إذا هو نفس الشخص)|Cheque holder (leave empty if same person)
+لا توجد موديلات مطابقة للبحث أو التصفية.|No models match the search or filter.
+مخزون البطاريات بالكميات والأسعار والصور|Battery stock with quantities, prices and photos
+رقم واتساب المالك (يستقبل طلبات الموافقة)|Owner's WhatsApp number (receives approval requests)
+شعار المحل (اختياري، بيظهر على فواتير A4)|Shop logo (optional, shown on A4 invoices)
+كل الأجهزة اللي لسا قيد الصيانة بأي تاريخ|All devices still under repair, any date
+كل القطع في مكان واحد، مع بحث وفرز وتصفية|All parts in one place, with search, sort and filter
+سجّل الأجهزة وتابع حالتها وتواصل مع الزبون|Log devices, track their status and contact the customer
+صاحب الشيك، تاريخه، صورته، وهل انصرف أو لا|Cheque holder, date, photo, and whether it was cashed
+ما في قطع متوفرة بالمخزن الرئيسي لترجيعها.|No parts available in main stock to return.
+جرد أدوات الورشة مع الصور والأعداد والأماكن|Workshop tools inventory with photos, counts and locations
+قواعد الشحن لكل الموديلات بالأسعار والكميات|Charging bases for all models with prices and quantities
+مخزون الشاشات لكل الأجهزة بالأسعار والكميات|Screen stock for all devices with prices and quantities
+اسم المحل والشعار وأسعار الصرف ومفتاح الدولة|Shop name, logo, exchange rates and country code
+شو أخذ كل شخص، كم دفع منو نقداً، وكم باقي عليه|What each person took, how much they paid in cash, and what remains
+كل مرتجع بينتسب لمورده، وبينعمل فاتورة لكل مورد|Each return is tied to its supplier, with an invoice per supplier
+ابحث عن قطعة: شاشة، بطارية، iPhone 11، Samsung...|Search for a part: screen, battery, iPhone 11, Samsung...
+كل فواتير المبيعات من المتجر، مع المدفوع والمتبقي|All store sales invoices, with paid and remaining
+أهلاً بعودتك 👋 سجّل دخولك لمتابعة القطع والصيانات.|Welcome back 👋 Log in to follow your parts and repairs.
+اختر شكل البرنامج. الاختيار بيتحفظ على هذا الجهاز.|Choose the app's look. The choice is saved on this device.
+سجّل القطع، تابع كل جهاز عندك، واعرف مربحك كل يوم.|Log parts, track every device, and know your profit every day.
+كل قطعة بترجّعها بتنخصم تلقائياً من المخزن الرئيسي|Every returned part is deducted automatically from main stock
+مخزون الآيسيات (شحن، طاقة، صوت...) بالكميات والصور|IC stock (charging, power, audio...) with quantities and photos
+يُحتسب من دين هذا الشخص (لما ينصرف بينقص من المتبقي)|Counted from this person's debt (reduces the remainder once cashed)
+النواقص المطلوب شراؤها والمرتجعات، مع فاتورة لكل مورد|Shortages to buy and returns, with an invoice per supplier
+ما في قطع هون لسا. اضغط "إضافة قطعة" لإضافة أول قطعة.|No parts here yet. Press "Add part" to add the first one.
+أضف أول موديل مع ألوانه وكمياته وسيظهر هنا بشكل بطاقة.|Add the first model with its colors and quantities and it will appear here as a card.
+ما أضفت أي أداة لسا. اضغط "إضافة أداة" وارفع صورة لها.|You haven't added any tool yet. Press "Add tool" and upload a photo.
+القطع الناقصة بتنضاف لحالها، هاد الزر بس للتحديث الفوري|Missing parts are added automatically; this button only refreshes instantly
+تصدير كشف الدخل والمربح لكل يوم (Excel) للفترة المعروضة|Export income and profit statement per day (Excel) for the shown period
+الكونكترات (شحن، بطارية، شاشة...) بالأسعار والكميات والصور|Connectors (charging, battery, screen...) with prices, quantities and photos
+بتبدأ لحظة موافقة المالك على حسابك، بدون بطاقة وبكل المزايا.|Starts the moment the owner approves your account, no card, all features.
+تصفّح القطع حسب التصنيف، أضف للسلة، اختر الشخص واطلع الفاتورة|Browse parts by category, add to cart, choose the person and issue the invoice
+كل أصحاب الديون والشيكات بمكان واحد — اضغط على الاسم لتفاصيله|All debtors and cheques in one place — tap a name for details
+سجّل القطع، تابع الصيانات، واعرف مربحك كل يوم، بدون أي التزام.|Log parts, track repairs, and know your profit every day, with no commitment.
+(اختر اللون، اكتب اسمه وكميته. الصفوف اللي بدون اسم لون تُتجاهل)|(Pick a color, type its name and quantity. Rows without a color name are ignored)
+بعد الإضافة بتفتح صفحة الشخص وبتقدر تسجّل له ديون ودفعات وشيكات.|After adding, the person's page opens and you can record debts, payments and cheques.
+المستخدمون المسجّلون وأيام الاشتراك المتبقية، مع التفعيل والإيقاف|Registered users and remaining subscription days, with activate and suspend
+كل موظف له عهدة منفصلة، وكل ما تسلّمه له بينخصم من المخزون الرئيسي|Each employee has separate custody; whatever you hand over is deducted from main stock
+ما في صيانات مسلّمة بعد. سجّل صيانة وغيّر حالتها إلى "تم التسليم".|No delivered repairs yet. Log a repair and set its status to "Delivered".
+ما في موظفين بعد. اضغط "إضافة موظف" وابدأ بتسليمه بضاعة من المخزن.|No employees yet. Press "Add employee" and start handing them goods from stock.
+ما في بنود مفتوحة. القطع الناقصة بتنضاف لحالها، أو اضغط "+ إضافة بند".|No open items. Missing parts are added automatically, or press "+ Add item".
+تعذّر جلب الأسعار — تأكد من الإنترنت أو اكتب سعراً يدوياً من الإعدادات.|Couldn't fetch rates — check your internet or set a manual rate in Settings.
+ما في أشخاص بعد. اضغط "شخص جديد" أو سجّل دين/شيك وبينضاف الشخص تلقائياً.|No people yet. Press "New person" or record a debt/cheque and the person is added automatically.
+ما في فواتير بيع لسا. افتح "تصنيفات المنتجات"، أضف قطع للسلة وأكمل البيع.|No sales invoices yet. Open "Product categories", add parts to the cart and complete the sale.
+حط رقم واتساب لتوصلك طلبات الموافقة. بدونه الزبون بيشوف إيميلك بدل زر واتساب.|Set a WhatsApp number to receive approval requests. Without it the customer sees your email instead of a WhatsApp button.
+ممكن تحدّد بنود أكثر من مورد — بينعمل فاتورة لكل مورد تلقائياً. المرتجعات بتنخصم من الإجمالي.|You can select items from several suppliers — an invoice is made per supplier automatically. Returns are deducted from the total.
+عبّي بياناتك وبنرسل طلب موافقة للمالك عبر واتساب، وبعد الموافقة بيعطيك كود تفعيل وبتبدأ تجربتك.|Fill in your details and we send an approval request to the owner via WhatsApp; once approved you get an activation code and your trial starts.
+طلبك قيد الموافقة|Your request is pending approval
+إرسال طلب الموافقة للمالك عبر واتساب|Send approval request to the owner via WhatsApp
+عندك الكود من المالك؟ اكتبه هنا|Have the code from the owner? Enter it here
+تسجيل الخروج|Log out
+بانتظار الموافقة|Pending approval
+اسم المستخدم|Username
+الهاتف:|Phone:
+الاسم:|Name:
+الإيميل:|Email:
+رجوع|Back
+طباعة / حفظ PDF|Print / Save PDF
+نسخة حرارية|Thermal copy
+فاتورة بيع|Sales invoice
+المشتري:|Buyer:
+الصافي المستحق|Net due
+المتبقي (دين)|Remaining (debt)
+الخصم|Discount
+تم الحفظ|Saved
+حفظ الرقم|Save number
+رفض|Reject
+كود جديد|New code
+أرسل الكود واتساب|Send code via WhatsApp
+مثال: sami.shop|e.g. sami.shop
+اسم المستخدم|Username
+جرّب REPAIRIX مجاناً لمدة 7 أيام|Try REPAIRIX free for 7 days
+كاشير سريع|Quick cashier
+ملصقات الباركود|Barcode labels
+امسح الباركود أو اكتب اسم القطعة، وخلّص الفاتورة بثواني|Scan the barcode or type the part name and finish the invoice in seconds
+امسح الباركود أو ابحث باسم القطعة...|Scan a barcode or search by part name...
+الأكثر مبيعاً|Best sellers
+السلة فاضية. امسح أول قطعة 👆|Cart is empty. Scan the first item 👆
+عدد القطع|Items count
+خصم (₪)|Discount (₪)
+💵 نقد|💵 Cash
+📒 دين|📒 Credit
+المدفوع من الزبون (₪)|Customer paid (₪)
+اتركه فاضي = المبلغ بالضبط|Leave empty = exact amount
+الباقي للزبون|Change due
+دفعة الآن (₪)|Paid now (₪)
+زبون نقدي (بدون حساب)|Walk-in customer (no account)
++ شخص جديد...|+ New person...
+اسم الشخص الجديد|New person name
+الهاتف (اختياري)|Phone (optional)
+طباعة الإيصال تلقائياً بعد البيع|Auto-print receipt after sale
+إتمام البيع (F9)|Complete sale (F9)
+إفراغ السلة|Empty cart
+F2 للمسح · F9 للدفع|F2 to scan · F9 to pay
+تم البيع ✓|Sale complete ✓
+فاتورة A4|A4 invoice
+إيصال حراري|Thermal receipt
+بيع جديد (Enter)|New sale (Enter)
+اطبع ملصقات باركود لزقها على القطع، وبعدها امسحها بالكاشير أو بأي صفحة|Print barcode labels to stick on parts, then scan them in the cashier or on any page
+اختر القطع واطبع ملصقات باركود لزقها على القطع، وبعدها امسحها بالكاشير أو بأي صفحة|Choose parts and print barcode labels to stick on them, then scan them in the cashier or on any page
+ابحث بالاسم أو الباركود...|Search by name or barcode...
+عدد النسخ لكل قطعة|Copies per part
+الحجم|Size
+طباعة المحدد|Print selected
+تحديد الكل|Select all
+الباركود|Barcode
+الباركود (اختياري — بيتولّد تلقائياً)|Barcode (optional — generated automatically)
+امسحه بالقارئ أو اتركه فاضي|Scan it or leave empty
+عنوان المحل (بيظهر أعلى الفواتير)|Shop address (shown at the top of invoices)
+عنوان المحل (اختياري، بيظهر أعلى الفواتير)|Shop address (optional, shown at the top of invoices)
+تعديل الباركود|Edit barcode
+طباعة ملصق باركود|Print barcode label
+عنوان|Address
+الصندوق المالي|Cashbox
+كل مصاري المحل بمكان واحد: الوارد من الصيانات والمبيعات والديون والشيكات، والمصاريف ودفعات الموردين|All shop money in one place: income from repairs, sales, debts and cheques, plus expenses and supplier payments
+رصيد الصندوق الآن (نقد + بنك)|Current balance (cash + bank)
+وارد الفترة|Period income
+صادر الفترة|Period outgoings
+صافي الفترة|Period net
+مصاريف ودفعات وسحب|Expenses, payments and withdrawals
+وارد − صادر|In − Out
+− مصروف|− Expense
+− دفعة لمورد|− Supplier payment
++ إيداع|+ Deposit
+سحب|Withdrawal
++ دخل آخر|+ Other income
+جرد الصندوق|Cash count
+الرصيد الافتتاحي|Opening balance
+تصدير Excel|Export Excel
+آخر 7 أيام|Last 7 days
+هذا الشهر|This month
+الحساب|Account
+النوع|Type
+كل الأنواع|All types
+بنك / شيكات|Bank / cheques
+الحركة اليومية|Daily activity
+من وين وإلى وين|Where it comes from and goes
+وارد|In
+صادر|Out
+حسابات الموردين|Supplier accounts
+المورد|Supplier
+المدفوع|Paid
+المتبقي|Remaining
+دفع|Pay
+سجل الحركات|Transactions log
+التفاصيل|Details
+الرصيد|Balance
+آخر عمليات الجرد|Recent cash counts
+المتوقع|Expected
+الفعلي|Actual
+الفرق|Difference
+تسجيل مصروف|Record expense
+دفعة لمورد|Supplier payment
+سحب من الصندوق|Cash withdrawal
+إيداع بالصندوق|Deposit to cashbox
+دخل آخر|Other income
+حفظ الجرد|Save count
+مبيعات|Sales
+صيانة|Repair
+تحصيل دين|Debt collection
+شيك مصروف|Cashed cheque
+نقد|Cash
+name@example.com أو اسم المستخدم|name@example.com or username
+اللغة|Language
+الحساب:|Account:
+PNG / JPG / WEBP · حتى 2 ميجا · الأفضل صورة مربعة بخلفية شفافة أو بيضاء|PNG / JPG / WEBP · up to 2 MB · a square image with a transparent or white background works best
+بتتحدث تلقائياً من الإنترنت. إذا بدك تثبّت سعر معيّن (مثلاً سعر الصرافة عندك) اكتبه بالخانة، واتركها فاضية للتلقائي.|Rates update automatically from the internet. To fix a specific rate (for example your exchange shop's rate), type it in the box and leave it empty for automatic.
+اسم المحل والشعار بيظهروا بالقائمة العلوية، والاسم بيظهر كمان بالإيصال وبرسائل واتساب. مفتاح الدولة بيتحط قبل أرقام الزباين اللي بتبدأ بـ 0.|The shop name and logo appear in the top bar, and the name also appears on receipts and WhatsApp messages. The country code is added before customer numbers that start with 0.
+1 دولار ($)|1 US dollar ($)
+1 دينار (JD)|1 Jordanian dinar (JD)
+مرتجع قطعة من الصيانة|Return a part from the repair
+القطعة المركّبة اللي بدك ترجعها|Installed part you want to return
+سبب المرتجع|Return reason
+قطعة بديلة من المخزون|Replacement part from stock
+(اختياري: بتنخصم من الكمية وبتتركب بنفس الصيانة)|(optional: deducted from stock and installed in the same repair)
+بدون قطعة بديلة|No replacement part
+القطعة المرتجعة بتنسجّل بصفحة «البضاعة المرتجعة» وبتنتسب لمورّدها. ما بتنخصم من المخزون مرة تانية لأنها انخصمت وقت التركيب، وتكلفتها بتنشال من تكلفة الصيانة.|The returned part is recorded on the Returned goods page and linked to its supplier. It is not deducted from stock again because it was deducted when installed, and its cost is removed from the repair cost.
+تسجيل المرتجع|Record return
+القطع المركّبة بهالصيانة|Parts installed in this repair
+إزالة وإرجاع للمخزون|Remove and return to stock
+ما في قطع مركّبة.|No installed parts.
+إضافة قطعة|Add a part
+(بتنخصم من المخزون وبتنضاف لتكلفة الصيانة)|(deducted from stock and added to the repair cost)
+— اختر قطعة —|— Choose a part —
+إضافة القطعة|Add part
+تقسيم المربح بين الأطراف|Profit split between parties
+إذا المحل بين أكثر من طرف (شركاء)، حدد عددهم ونسبة كل طرف. بتظهر حصة كل طرف من المربح بصفحة الصيانة.|If the shop has more than one party (partners), set how many and each party's percentage. Each party's share of the profit appears on the Repairs page.
+عدد الأطراف|Number of parties
+طرف واحد (بدون تقسيم)|One party (no split)
+النسبة %|Percentage %
+مثال: أنا / شريكي|e.g. Me / My partner
+المجموع 100% ✓|Total 100% ✓
+تقسيم المربح على الأطراف|Profit split between parties
+مربح الفترة (تم التسليم)|Period profit (delivered)
+المربح المتوقع|Expected profit
+الشركة|Company
+اسم الشركة|Company name
+شركتك جديد؟|New company?
+(للشركة فقط)|(company only)
+شركة الصيانة|Repair company
+إعدادات الشركة|Company settings
+اسم الشركة (اختياري)|Company name (optional)
+أهلاً بك في شركة الصيانة|Welcome to the repair company
+بحث بالإيميل أو اسم الشركة...|Search by email or company name...
+شعار الشركة (اختياري، بيظهر على فواتير A4)|Company logo (optional, shown on A4 invoices)
+اسم الشركة والشعار وأسعار الصرف ومفتاح الدولة|Company name, logo, exchange rates and country code
+عنوان الشركة (بيظهر أعلى الفواتير)|Company address (shown at the top of invoices)
+عنوان الشركة (اختياري، بيظهر أعلى الفواتير)|Company address (optional, shown at the top of invoices)
+كل مصاري الشركة بمكان واحد: الوارد من الصيانات والمبيعات والديون والشيكات، والمصاريف ودفعات الموردين|All company money in one place: income from repairs, sales, debts and cheques, plus expenses and supplier payments
+اسم الشركة والشعار بيظهروا بالقائمة العلوية، والاسم بيظهر كمان بالإيصال وبرسائل واتساب. مفتاح الدولة بيتحط قبل أرقام الزباين اللي بتبدأ بـ 0.|The company name and logo appear in the top bar, and the name also appears on receipts and WhatsApp messages. The country code is added before customer numbers that start with 0.
+إذا الشركة بين أكثر من طرف (شركاء)، حدد عددهم ونسبة كل طرف. بتظهر حصة كل طرف من المربح بصفحة الصيانة.|If the company has more than one party (partners), set how many and each party's percentage. Each party's share of the profit appears on the Repairs page.
+اسم المستخدم (لتسجيل الدخول)|Username (for login)
+تم تغيير اسم المستخدم — سجّل دخولك فيه من الآن|Username changed — use it to sign in from now on
+اسم المستخدم مأخوذ، اختر غيره|Username is taken, choose another
+تجربة مجانية 7 أيام · بدون بطاقة دفع|7-day free trial · no card required
+أنشئ حسابك وابدأ تجربتك.|Create your account and start your trial.
+شعار الشركة|Company logo
+اختياري · حتى 2 ميجا|Optional · up to 2 MB
+رقم الهاتف|Phone number
+المدينة|City
+(6 أحرف على الأقل)|(at least 6 characters)
+إنشاء الحساب وبدء التجربة|Create account & start trial
+عبّي الاسم الكامل ورقم الهاتف واسم الشركة والمدينة والإيميل واسم المستخدم|Fill in full name, phone, company name, city, email and username
+اسم المستخدم: 3-30 حرف إنجليزي أو أرقام أو . _ -|Username: 3-30 letters, digits or . _ -
+الإيميل مسجل من قبل|This email is already registered
+رقم الهاتف غير صالح|Invalid phone number
+كلمة السر لازم 6 أحرف على الأقل|Password must be at least 6 characters
+استيراد Excel|Import Excel
+استيراد أدوات الصيانة من Excel|Import maintenance tools from Excel
+استيراد القطع من Excel|Import parts from Excel
+🧐 محتاجة قرارك|🧐 Needs your decision
+محتاجة قرارك|Needs your decision
+— اختر الوجهة —|— Choose destination —
+⛔ تخطّي (لا تستورد)|⛔ Skip (don't import)
+🛠️ أدوات الصيانة|🛠️ Maintenance tools
+طبّق على كل اللي بدون وجهة|Apply to all without a destination
+وجهتها|Destination
+الورشة|Workshop
+المخزون وقطع الغيار|Inventory & parts
+المبيعات والمتجر|Sales & store
+المالية|Finance
+النظام|System
+الفريق والحسابات|Team & accounts

@@ -1,0 +1,8 @@
+.env
+.secret_key
+firebase-key.json
+uploads
+__pycache__
+tests
+*.zip
+*.db
